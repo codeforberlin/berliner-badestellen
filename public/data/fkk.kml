@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Liste der Hunde-Badestellen (Badegew&#228;sserqualit&#228;t)</name>
+  <description></description>
+  <Placemark>
+    <name>Grundewaldsee</name>    
+    <Point>
+      <coordinates>13.264976,52.474172,0</coordinates>
+    </Point>
+  </Placemark> 
+    <Placemark>
+    <name>Dahme</name>    
+    <Point>
+      <coordinates>13.62555,52.410552,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>Flughafensee</name>    
+    <Point>
+      <coordinates>13.278194,52.566925,0</coordinates>
+    </Point>
+  </Placemark>  
+    <Placemark>
+    <name>Habermannsee</name>    
+    <Point>
+      <coordinates>13.594523,52.491499,0</coordinates>
+    </Point>
+  </Placemark> 
+    <Placemark>
+    <name>Halensee</name>    
+    <Point>
+      <coordinates>13.280168,52.495393,0</coordinates>
+    </Point>
+  </Placemark>    
+      <Placemark>
+    <name>Krumme Lanke</name>    
+    <Point>
+      <coordinates>13.230815,52.448233,0</coordinates>
+    </Point>
+  </Placemark> 
+   <Placemark>
+    <name>Teufelssee</name>    
+    <Point>
+      <coordinates>13.234677,52.492048,0</coordinates>
+    </Point>
+  </Placemark> 
+     <Placemark>
+    <name>Strandbad Wannsee</name>    
+    <Point>
+      <coordinates>13.176956,52.436906,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>Tegeler See</name>    
+    <Point>
+      <coordinates>13.245278,52.578854,0</coordinates>
+    </Point>
+  </Placemark> 
+   <Placemark>
+    <name>Plötzensee</name>    
+    <Point>
+      <coordinates>13.328834,52.54413,0</coordinates>
+    </Point>
+  </Placemark> 
+     <Placemark>
+    <name>Müggelseedamm</name>    
+    <Point>
+      <coordinates>13.657265,52.448163,0</coordinates>
+    </Point>
+  </Placemark>
+    <Placemark>
+    <name>Kaulsdorfer Baggersee</name>    
+    <Point>
+      <coordinates>13.602162,52.501176,0</coordinates>
+    </Point>
+  </Placemark>
+      <Placemark>
+    <name>Groß Glienicker See</name>    
+    <Point>
+      <coordinates>13.118076,52.473684,0</coordinates>
+    </Point>
+  </Placemark>
+    <Placemark>
+    <name>Prinzenbad</name>    
+    <Point>
+      <coordinates>13.403442,52.497557,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Prinzenbad</name>    
+    <Point>
+      <coordinates>13.403442,52.497557,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

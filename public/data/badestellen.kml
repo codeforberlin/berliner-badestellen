@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Liste der Badestellen (Badegew&#228;sserqualit&#228;t)</name>
+  <description></description>
+  <Placemark>
+    <name>Alter Hof / Unterhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Steglitz-Zehlendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/1">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1423644,52.4349108,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bammelecke</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/3">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.6237,52.4093,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Breitehorn / Unterhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Spandau<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/5">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.180702,52.4648988,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>B&#252;rgerablage / Oberhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Spandau<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/7">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2136153,52.5866148,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>D&#228;meritzsee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/9">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.7313346,52.4256948,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Flughafensee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/11">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2856306,52.5700818,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Seebad Friedrichshagen</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_a_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/13">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.6306004,52.445554,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Flussbad Gartenstra&#223;e</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/15">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.5758086,52.4418048,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gro&#223; Glienicker See, n&#246;rdlich</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Spandau<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/17">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1168158,52.4694978,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gro&#223; Glienicker See, s&#252;dlich</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Spandau<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/19">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1140375,52.4676888,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gro&#223;e Krampe</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/21">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.6517635,52.3868598,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gro&#223;e Steinlanke / Unterhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Steglitz-Zehlendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/23">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1901394,52.4527308,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freibad Gr&#252;nau</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/25">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.600676,52.41259,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grunewaldturm / Unterhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Charlottenburg-Wilmersdorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/27">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1952991,52.4840688,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freibad Heiligensee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/29">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2152176,52.6030848,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freibad Jungfernheide</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Charlottenburg-Wilmersdorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/31">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.27645,52.545394,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kleine Badewiese / Unterhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gelb_ka_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Spandau<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/33">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1858176,52.4754918,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kleiner M&#252;ggelsee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/35">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.677562,52.4296548,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Krumme Lanke</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Steglitz-Zehlendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/37">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.23421,52.4541708,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lieper Bucht / Unterhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Steglitz-Zehlendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/39">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1973424,52.4718738,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freibad L&#252;bars (Ziegeleisee)</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/41">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.335624,52.61817,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Strandbad M&#252;ggelsee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/43">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.670136,52.448154,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Strandbad Orankesee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Lichtenberg<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/45">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.485932,52.550944,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freibad Pl&#246;tzensee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Mitte<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/47">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.331186,52.545116,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Radfahrerwiese / Unterhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Steglitz-Zehlendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/49">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1891986,52.4607318,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sandhauser Stra&#223;e / Oberhavel</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/51">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2227146,52.5963078,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Schlachtensee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Steglitz-Zehlendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/53">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2068985,52.4419891,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Schm&#246;ckwitz</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_a_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/55">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.6547917,52.3761948,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Seddinsee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/57">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.6842946,52.3911348,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freibad Tegeler See</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/59">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.24728,52.579568,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>gegen&#252;ber Reiswerder / Tegeler See</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/61">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2572302,52.5701718,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>gegen&#252;ber Scharfenberg / Tegeler See</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/63">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.246411,52.5773628,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Reiherwerder / Tegeler See</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/65">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2574801,52.5868758,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saatwinkel / Tegeler See</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Reinickendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/67">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.250527,52.5661668,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Teufelssee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Charlottenburg-Wilmersdorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/69">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.2356947,52.4929428,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Strandbad Wannsee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Steglitz-Zehlendorf<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/71">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.1755864,52.4405718,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Seebadeanstalt Wei&#223;ensee</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Pankow<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/73">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.465316,52.553892,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freibad Wendenschloss</name>
+    <description><![CDATA[
+      <img src="http://www.berlin.de/badegewaesser/baden-details/gruen_40_40.jpg" alt="" style="float:left;margin:0 1em 1em 0;" />Treptow-Köpenick<br /> <a href="http://www.berlin.de/badegewaesser/baden-details/index.php/detail/75">Mehr...</a></a>
+    ]]></description>
+    <Point>
+      <coordinates>13.5999899,52.41515,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

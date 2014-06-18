@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Liste der Hallenbäder</name>
+  <description></description>
+  <Placemark>
+    <name>Seebad Friedrichshagen</name>
+    <description>
+      "http://www.seebad-friedrichshagen.de" 
+    </description>
+    <Point>
+      <coordinates>13.6306139,52.4465535,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>Freibad Grünau</name>
+    <description>
+      "http://www.strandbad-grünau.de" 
+    </description>
+    <Point>
+      <coordinates>13.6046365,52.4088741, 0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Freibad Halensee</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/134.html" 
+    </description>
+    <Point>
+      <coordinates>13.28205,52.49381,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Freibad Jungfernheide</name>
+    <description>
+      "http://www.strandbad-jungfernheide.de/" 
+    </description>
+    <Point>
+      <coordinates>13.27435,52.54378,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Freibad Lübars</name>
+    <description>
+      "http://www.strandbad-luebars.de/" 
+    </description>
+    <Point>
+      <coordinates>13.3357381,52.6185126,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Strandbad Orankesee</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/131.html" 
+    </description>
+    <Point>
+      <coordinates>13.4841,52.55015, 0</coordinates>
+    </Point>
+  </Placemark>   
+ <Placemark>
+    <name>Freibad Plötzensee</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/130.html" 
+    </description>
+    <Point>
+      <coordinates>13.32906,52.54253,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Freibad Tegeler See</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/129.html" 
+    </description>
+    <Point>
+      <coordinates>13.24425,52.57828,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Strandbad Weißensee</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/128.html" 
+    </description>
+    <Point>
+      <coordinates>13.4651684,52.5517545,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Freibad Wendenschloss</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/127.html" 
+    </description>
+    <Point>
+      <coordinates>13.59942,52.41532,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Kinderbad Monbijou</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/126.html" 
+    </description>
+    <Point>
+      <coordinates>13.3339437,52.5927637,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Kinderbad Platsch</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/125.html" 
+    </description>
+    <Point>
+      <coordinates>13.56229,52.55218,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Kombibad Gropiusstadt</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/124.html" 
+    </description>
+    <Point>
+      <coordinates>13.47245,52.42951,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Kombibad Mariendorf - Sommerbad</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/123.html" 
+    </description>
+    <Point>
+      <coordinates>13.3997931,52.4198089,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Kombibad Seestraße</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/122.html" 
+    </description>
+    <Point>
+      <coordinates>13.3634248,52.5567186,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Kombibad Spandau Süd</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/121.html" 
+    </description>
+    <Point>
+      <coordinates>13.1875,52.51904,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sommerbad Am Insulaner</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/120.html" 
+    </description>
+    <Point>
+      <coordinates>13.35123,52.45592,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>Sommerbad Humboldthain</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/119.html" 
+    </description>
+    <Point>
+      <coordinates>13.3797914,52.5440009,0</coordinates>
+    </Point>
+  </Placemark> 
+   <Placemark>
+    <name>Prinzenbad</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/118.html" 
+    </description>
+    <Point>
+      <coordinates>13.40542,52.49782,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Sommerbad Mariendorf</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/117.html" 
+    </description>
+    <Point>
+      <coordinates>13.3978954,52.4430864,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Sommerbad Neukölln</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/116.html" 
+    </description>
+    <Point>
+      <coordinates>13.41637,152.4797,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Sommerbad Olympiastadion</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/115.html" 
+    </description>
+    <Point>
+      <coordinates>13.2439682,52.5152165,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Sommerbad Pankow</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/114.html" 
+    </description>
+    <Point>
+      <coordinates>13.4129914,52.5733991,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Sommerbad Pankow</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/114.html" 
+    </description>
+    <Point>
+      <coordinates>13.4129914,52.5733991,0</coordinates>
+    </Point>
+  </Placemark>  
+<Placemark>
+    <name>Sommerbad Staaken-West</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/113.html" 
+    </description>
+    <Point>
+      <coordinates>13.13136,52.53392,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Saunalandschaft Lichterfelde (Spucki) / Sommerbad</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/112.html" 
+    </description>
+    <Point>
+      <coordinates>13.3120881,52.4336771,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Sommerbad Wilmersdorf</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/111.html" 
+    </description>
+    <Point>
+      <coordinates>13.3049398,52.479928,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Sommerbad Wuhlheide</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/110.html" 
+    </description>
+    <Point>
+      <coordinates>13.5167,52.47196,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Strandbad Wannsee</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/91.html" 
+    </description>
+    <Point>
+      <coordinates>13.17944,52.4369,0</coordinates>
+    </Point>
+  </Placemark>   
+  
+  
+  
+  
+  </Document>
+</kml>

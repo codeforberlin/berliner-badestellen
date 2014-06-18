@@ -1,0 +1,32 @@
+
+<html>
+<head>
+    <title>Berliner Badeseen</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <!--<meta property="og:title" content="Berliner Badeseen" />
+    <meta property="og:url" content="http://mamanoke.de/badessen" />
+    <meta property="og:image" content="http://mamanoke.de/badessen"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />-->
+
+    <link rel="stylesheet" href="lib/leaflet/leaflet.css" />
+    <!--<link rel="stylesheet" href="social.css" />-->
+    <link rel="stylesheet" href="map.css" />
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="logo"><img src="img/logo.png"></div>
+
+    <script type="text/javascript" src="lib/jquery.min.js" ></script>    
+    <script type="text/javascript" src="lib/leaflet/leaflet.js" ></script>
+    <!--<script type="text/javascript" src="social.js" ></script>-->
+    <script type="text/javascript" src="map.js" ></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            setTimeout('init()',100);
+        });
+    </script>
+
+</body>
