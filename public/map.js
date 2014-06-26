@@ -9,9 +9,15 @@ function init() {
                 _fkk = kml;
                 $.get("data/hallenbaeder.kml", function(kml) {
                     _hallenbaeder = kml;
-                    $.getJSON("data/all.json",function(json) {
-                        _quality = json;
-                        initMap();
+                    $.ajax({
+			url: "data/all.json",
+			type: 'GET',
+			dataType: 'json',
+			cache: false,
+			success: function (json) {
+                            _quality = json;
+                            initMap();
+			}
                     });
                 });
             });
@@ -153,9 +159,10 @@ function initMap() {
         for (var i = 0; i<_quality.index.length; i++) {
             if (_quality.index[i].rss_name == name) {
                 sicht = (_quality.index[i].sicht);
-                date = _quality.index[i].dat;                                
+                var s = _quality.index[i].dat.split('-');
+                date = s[2] + '.' + s[1] + '.' + s[0]; 
                 url = unescape(_quality.index[i].badestellelink.replace("[","").replace("]",""));
-                url = url.split("|")[0];
+		url = url.split("|")[0];
                 url = url.substr(1, url.length);
                 url = 'http://www.berlin.de/' + url;
             }
@@ -178,7 +185,7 @@ function initMap() {
             overall = 'schlecht';
         }
 
-        var marker = L.marker([lat,lon],{icon: icon});          
+        var marker = L.marker([lat,lon],{icon: icon});
         marker.bindPopup('<b>'+ name + '</b><br>Sichttiefe: ' + sicht + ' cm<br> Messdatum: ' + date + '<br> Wasserqualität: ' + overall + '<br>'+ '<a href="' + url + '" target="_blank">Link</a>');
         marker.on('click', function(e){
             marker.openPopup();
