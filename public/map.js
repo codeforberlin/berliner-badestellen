@@ -151,6 +151,7 @@ function initMap() {
     $(_badestellen).find("Placemark").each(function(){           
         var description = $(this).find("description").text();  
         var name = $(this).find("name").text();
+        var farbe;
         var sicht = "";
         var overall;
         var date;
@@ -158,6 +159,7 @@ function initMap() {
         
         for (var i = 0; i<_quality.index.length; i++) {
             if (_quality.index[i].rss_name == name) {
+                farbe = _quality.index[i].farbe;
                 sicht = (_quality.index[i].sicht);
                 var s = _quality.index[i].dat.split('-');
                 date = s[2] + '.' + s[1] + '.' + s[0]; 
@@ -173,11 +175,11 @@ function initMap() {
         var lon = parseFloat(k[0]);
         var lat = parseFloat(k[1]);
         var icon;
-      
-        if(description.indexOf('gruen')!= -1){                        
+
+        if (farbe === 'gruen.jpg') {
             icon = icons['blau'];
             overall = 'gut';  
-        } else if(description.indexOf('gelb')!= -1){                                        
+        } else if(farbe === 'gelb.jpg') {
             icon = icons['gelb'];
             overall = 'mittel';
         } else {                        
