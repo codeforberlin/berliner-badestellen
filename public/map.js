@@ -181,10 +181,10 @@ function initMap() {
             overall = 'gut';  
         } else if(farbe === 'gelb.jpg') {
             icon = icons['gelb'];
-            overall = 'mittel';
+            overall = 'vom Baden wird abgeraten';
         } else {                        
             icon = icons['rot'];
-            overall = 'schlecht';
+            overall = 'Baden verboten';
         }
 
         var marker = L.marker([lat,lon],{icon: icon});
