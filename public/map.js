@@ -23,7 +23,7 @@ function init() {
             });
         });
     });
-} 
+}
 
 function initMap() {
     var map = new L.Map('map');
