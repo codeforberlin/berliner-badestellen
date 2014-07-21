@@ -10,14 +10,14 @@ function init() {
                 $.get("data/hallenbaeder.kml", function(kml) {
                     _hallenbaeder = kml;
                     $.ajax({
-			url: "data/all.json",
-			type: 'GET',
-			dataType: 'json',
-			cache: false,
-			success: function (json) {
-                            _quality = json;
-                            initMap();
-			}
+                        url: "data/all.json",
+                        type: 'GET',
+                        dataType: 'json',
+                        cache: false,
+                        success: function (json) {
+                                        _quality = json;
+                                        initMap();
+                        }
                     });
                 });
             });
@@ -164,7 +164,7 @@ function initMap() {
                 var s = _quality.index[i].dat.split('-');
                 date = s[2] + '.' + s[1] + '.' + s[0]; 
                 url = unescape(_quality.index[i].badestellelink.replace("[","").replace("]",""));
-		url = url.split("|")[0];
+        url = url.split("|")[0];
                 url = url.substr(1, url.length);
                 url = 'http://www.berlin.de/' + url;
             }
