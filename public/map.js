@@ -15,8 +15,8 @@ function init() {
                         dataType: 'json',
                         cache: false,
                         success: function (json) {
-                                        _quality = json;
-                                        initMap();
+                            _quality = json;
+                            initMap();
                         }
                     });
                 });
