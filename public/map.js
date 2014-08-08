@@ -179,7 +179,7 @@ function initMap() {
         if (farbe === 'gruen.jpg') {
             icon = icons['blau'];
             overall = 'gut';  
-        } else if(farbe === 'gruen_a_40_40.jpg') {
+        } else if (farbe === 'gruen_a.jpg') {
             icon = icons['blau'];
             overall = 'gut, erhöhtes Algenauftreten';
         } else if(farbe === 'gelb.jpg') {
