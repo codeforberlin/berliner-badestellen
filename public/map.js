@@ -179,6 +179,9 @@ function initMap() {
         if (farbe === 'gruen.jpg') {
             icon = icons['blau'];
             overall = 'gut';  
+        } else if(farbe === 'gruen_a_40_40.jpg') {
+            icon = icons['blau'];
+            overall = 'gut, erhöhtes Algenauftreten';
         } else if(farbe === 'gelb.jpg') {
             icon = icons['gelb'];
             overall = 'vom Baden wird abgeraten';
