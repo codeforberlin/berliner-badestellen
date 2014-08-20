@@ -178,7 +178,10 @@ function initMap() {
 
         if (farbe === 'gruen.jpg') {
             icon = icons['blau'];
-            overall = 'gut';
+            overall = 'gut';  
+        } else if (farbe === 'gruen_a.jpg') {
+            icon = icons['blau'];
+            overall = 'gut, erhöhtes Algenauftreten';
         } else if(farbe === 'gelb.jpg') {
             icon = icons['gelb'];
             overall = 'vom Baden wird abgeraten';
@@ -242,6 +245,4 @@ function initMap() {
         });
         overlay['Hallenbäder'].addLayer(marker);
     });
-
-    $('.leaflet-container  .leaflet-control-attribution').prepend('<a id="daten" href="info.html">Was ist hier dargestellt?</a> | <a id="impressum" href="impressum.html">Impressum</a> | ');
 }
