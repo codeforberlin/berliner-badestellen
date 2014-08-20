@@ -43,48 +43,48 @@ function initMap() {
 
     var icons = {
         'blau': L.icon({
-            iconUrl: 'img/blau.png',    
+            iconUrl: 'img/blau.png',
             iconSize:     [32, 39], // size of the icon width,height
             iconAnchor:   [14, 45], // point of the icon which will correspond to marker's location
             popupAnchor:  [4,-46]   // point from which the popup should open relative to the iconAnchor
         }),
         'gelb': L.icon({
-            iconUrl: 'img/gelb.png',    
+            iconUrl: 'img/gelb.png',
             iconSize:     [32, 37],
             iconAnchor:   [14, 39],
             popupAnchor:  [4,-46]
         }),
         'rot': L.icon({
-            iconUrl: 'img/rot.png',    
+            iconUrl: 'img/rot.png',
             iconSize:     [26, 45],
             iconAnchor:   [13, 44],
             popupAnchor:  [4,-46]
         }),
         'freibad': L.icon({
-            iconUrl: 'img/freibad.png',    
+            iconUrl: 'img/freibad.png',
             iconSize:     [23, 32],
             iconAnchor:   [11, 26],
             popupAnchor:  [4,-46]
         }),
         'fkk': L.icon({
-            iconUrl: 'img/fkk.png',    
+            iconUrl: 'img/fkk.png',
             iconSize:     [22, 26],
             iconAnchor:   [11, 26],
             popupAnchor:  [4,-46]
         }),
         'hallenbad': L.icon({
-            iconUrl: 'img/hallenbad.png',    
+            iconUrl: 'img/hallenbad.png',
             iconSize:  [35, 21],
             iconAnchor: [11, 26],
             popupAnchor: [4,-46]
         }),
         'fernsehturm': L.icon({
-            iconUrl: 'img/fernsehturm.png',    
+            iconUrl: 'img/fernsehturm.png',
             iconSize: [27, 125],
-            iconAnchor: [8,111]    
+            iconAnchor: [8,111]
         }),
         'funkturm': L.icon({
-            iconUrl: 'img/funkturm.png',    
+            iconUrl: 'img/funkturm.png',
             iconSize: [36, 110],
             iconAnchor: [16,108]
         })
@@ -99,35 +99,35 @@ function initMap() {
         'Hintergrund': new L.TileLayer(baseUrl + 'hintergrund/{z}/{x}/{y}.png', {
             minZoom: min,
             maxZoom: max,
-            attribution: osmCopyright, 
-            errorTileUrl: errorTile, 
+            attribution: osmCopyright,
+            errorTileUrl: errorTile,
             zIndex: 0,
             reuseTiles: reuse
         }).addTo(map),
-        'Grau': new L.TileLayer(baseUrl + 'grau/{z}/{x}/{y}.png', { 
+        'Grau': new L.TileLayer(baseUrl + 'grau/{z}/{x}/{y}.png', {
             minZoom: min,
             maxZoom: max,
-            attribution: osmCopyright, 
-            errorTileUrl: errorTile, 
+            attribution: osmCopyright,
+            errorTileUrl: errorTile,
             zIndex: 1,
             reuseTiles: reuse
         }).addTo(map),
     };
 
     var overlay = {
-        'Natur': new L.TileLayer(baseUrl + 'natur/{z}/{x}/{y}.png', { 
+        'Natur': new L.TileLayer(baseUrl + 'natur/{z}/{x}/{y}.png', {
             minZoom: min,
             maxZoom: max,
-            attribution: osmCopyright, 
-            errorTileUrl: errorTile, 
+            attribution: osmCopyright,
+            errorTileUrl: errorTile,
             zIndex: 1,
             reuseTiles: reuse
         }),
-        'BVG Haltestellen': new L.TileLayer(baseUrl + 'bvg/{z}/{x}/{y}.png', { 
+        'BVG Haltestellen': new L.TileLayer(baseUrl + 'bvg/{z}/{x}/{y}.png', {
             minZoom: min,
             maxZoom: max,
-            attribution: osmCopyright, 
-            errorTileUrl: errorTile, 
+            attribution: osmCopyright,
+            errorTileUrl: errorTile,
             zIndex: 4,
             reuseTiles: reuse
         }),
@@ -135,11 +135,11 @@ function initMap() {
         'Freibäder': new L.layerGroup(),
         'FKK-Baden': new L.layerGroup(),
         'Hallenbäder': new L.layerGroup(),
-        'Hundebadestellen': new L.TileLayer(baseUrl + 'hunde/{z}/{x}/{y}.png', { 
+        'Hundebadestellen': new L.TileLayer(baseUrl + 'hunde/{z}/{x}/{y}.png', {
             minZoom: min,
             maxZoom: max,
-            attribution: osmCopyright, 
-            errorTileUrl: errorTile, 
+            attribution: osmCopyright,
+            errorTileUrl: errorTile,
             zIndex: 6,
             reuseTiles: reuse
         }),
@@ -148,23 +148,23 @@ function initMap() {
     L.control.layers({}, overlay, {collapsed: false}).addTo(map);
 
     // Badestellen
-    $(_badestellen).find("Placemark").each(function(){           
-        var description = $(this).find("description").text();  
+    $(_badestellen).find("Placemark").each(function(){
+        var description = $(this).find("description").text();
         var name = $(this).find("name").text();
         var farbe;
         var sicht = "";
         var overall;
         var date;
-        var url; 
+        var url;
         
         for (var i = 0; i<_quality.index.length; i++) {
             if (_quality.index[i].rss_name == name) {
                 farbe = _quality.index[i].farbe;
                 sicht = (_quality.index[i].sicht);
                 var s = _quality.index[i].dat.split('-');
-                date = s[2] + '.' + s[1] + '.' + s[0]; 
+                date = s[2] + '.' + s[1] + '.' + s[0];
                 url = unescape(_quality.index[i].badestellelink.replace("[","").replace("]",""));
-        url = url.split("|")[0];
+                url = url.split("|")[0];
                 url = url.substr(1, url.length);
                 url = 'http://www.berlin.de/' + url;
             }
@@ -178,11 +178,11 @@ function initMap() {
 
         if (farbe === 'gruen.jpg') {
             icon = icons['blau'];
-            overall = 'gut';  
+            overall = 'gut';
         } else if(farbe === 'gelb.jpg') {
             icon = icons['gelb'];
             overall = 'vom Baden wird abgeraten';
-        } else {                        
+        } else {
             icon = icons['rot'];
             overall = 'Baden verboten';
         }
@@ -192,12 +192,12 @@ function initMap() {
         marker.on('click', function(e){
             marker.openPopup();
         });
-        overlay['Badestellen'].addLayer(marker);         
+        overlay['Badestellen'].addLayer(marker);
     });
 
     // Freibad        
-    $(_freibaeder).find("Placemark").each(function(){  
-        var description = $(this).find("description").text();    
+    $(_freibaeder).find("Placemark").each(function(){
+        var description = $(this).find("description").text();
         var name = $(this).find("name").text();
         var koordinaten = $(this).find("coordinates").text();
         var k = koordinaten.split(",");
@@ -212,7 +212,7 @@ function initMap() {
     });
 
     // FKK
-    $(_fkk).find("Placemark").each(function(){ 
+    $(_fkk).find("Placemark").each(function(){
         //var description = $b.find("description").text();  
         var name = $(this).find("name").text();
         var koordinaten = $(this).find("coordinates").text();
@@ -229,7 +229,7 @@ function initMap() {
 
     // Hallenbaeder
     $(_hallenbaeder).find("Placemark").each(function(){
-        var description = $(this).find("description").text();    
+        var description = $(this).find("description").text();
         var name = $(this).find("name").text();
         var koordinaten = $(this).find("coordinates").text();
         var k = koordinaten.split(",");
@@ -242,4 +242,6 @@ function initMap() {
         });
         overlay['Hallenbäder'].addLayer(marker);
     });
+
+    $('.leaflet-container  .leaflet-control-attribution').prepend('<a id="daten" href="info.html">Was ist hier dargestellt?</a> | <a id="impressum" href="impressum.html">Impressum</a> | ');
 }
