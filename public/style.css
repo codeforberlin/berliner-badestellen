@@ -8,14 +8,18 @@ body, html {
     line-height: 1.5;
 
     background-color: #847E6F;
-    color: white;
+    
 }
 
-a, a:hover, a:visited, a:focus {
+.wrapper a, 
+.wrapper a:hover,
+.wrapper a:visited,
+.wrapper a:focus {
     color: white !important;
 }
 
 .wrapper {
+    color: white;
     width: 600px;
     height: 100%;
     margin: 0 auto;

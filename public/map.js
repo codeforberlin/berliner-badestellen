@@ -245,4 +245,6 @@ function initMap() {
         });
         overlay['Hallenbäder'].addLayer(marker);
     });
+
+    $('.leaflet-container  .leaflet-control-attribution').prepend('<a id="daten" href="info.html">Was ist hier dargestellt?</a> | <a id="impressum" href="impressum.html">Impressum</a> | ');
 }
