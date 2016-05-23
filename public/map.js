@@ -89,7 +89,7 @@ function initMap() {
             iconAnchor: [16,108]
         })
     };
-         
+
     var marker = {
         'fernsehturm': L.marker([52.520841,13.409405],{icon: icons.fernsehturm}).addTo(map),
         'funkturm': L.marker([52.5050681,13.278211400000032],{icon: icons.funkturm}).addTo(map)
@@ -156,7 +156,7 @@ function initMap() {
         var overall;
         var date;
         var url;
-        
+
         for (var i = 0; i<_quality.index.length; i++) {
             if (_quality.index[i].rss_name == name) {
                 farbe = _quality.index[i].farbe;
@@ -169,7 +169,7 @@ function initMap() {
                 url = 'http://www.berlin.de/' + url;
             }
         }
-                                        
+
         var koordinaten = $(this).find("coordinates").text();
         var k = koordinaten.split(",");
         var lon = parseFloat(k[0]);
@@ -178,7 +178,7 @@ function initMap() {
 
         if (farbe === 'gruen.jpg') {
             icon = icons['blau'];
-            overall = 'gut';  
+            overall = 'gut';
         } else if (farbe === 'gruen_a.jpg') {
             icon = icons['blau'];
             overall = 'gut, erhöhtes Algenauftreten';
@@ -198,7 +198,7 @@ function initMap() {
         overlay['Badestellen'].addLayer(marker);
     });
 
-    // Freibad        
+    // Freibad
     $(_freibaeder).find("Placemark").each(function(){
         var description = $(this).find("description").text();
         var name = $(this).find("name").text();
@@ -216,7 +216,7 @@ function initMap() {
 
     // FKK
     $(_fkk).find("Placemark").each(function(){
-        //var description = $b.find("description").text();  
+        //var description = $b.find("description").text();
         var name = $(this).find("name").text();
         var koordinaten = $(this).find("coordinates").text();
         var k = koordinaten.split(",");
