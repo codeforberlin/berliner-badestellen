@@ -33,7 +33,7 @@ function initMap() {
     var reuse = true;
 
     //var baseUrl = 'http://mamanoke.de/tiles/badeseen/';
-    var baseUrl = 'http://services.codefor.de/static/badeseen/';
+    var baseUrl = 'http://tiles.codefor.de/static/badeseen/';
     var errorTile = baseUrl + 'error.png';
 
     var osmCopyright = "Map data &copy; 2012 OpenStreetMap contributors";
