@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+
+    background-color: #847E6F;
+    
+}
+
+.wrapper a, 
+.wrapper a:hover,
+.wrapper a:visited,
+.wrapper a:focus {
+    color: white !important;
+}
+
+.wrapper {
+    color: white;
+    width: 600px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 60px 20px 60px 20px;
+    background-color: #504A37;
+}

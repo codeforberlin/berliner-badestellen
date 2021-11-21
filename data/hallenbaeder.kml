@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Liste der Hallenbäder</name>
+  <description></description>
+  <Placemark>
+    <name>Kombibad Gropiusstadt</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/96.html" 
+    </description>
+    <Point>
+      <coordinates>13.47245,52.42951,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Kombibad Mariendorf </name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/97.html" 
+    </description>
+    <Point>
+      <coordinates>13.3997931,52.4198089,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Kombibad Seestraße</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/98.html" 
+    </description>
+    <Point>
+      <coordinates>13.362808227539062,52.57267775108235,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Kombibad Spandau Süd</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/99.html" 
+    </description>
+    <Point>
+      <coordinates>13.18754,52.51904,0</coordinates>
+    </Point>
+  </Placemark> 
+<Placemark>
+    <name>Bad am Spreewaldplatz</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/67.html" 
+    </description>
+    <Point>
+      <coordinates>13.439712524414062,52.512543643439486,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Kleine Schwimmhalle Wuhlheide</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/100.html" 
+    </description>
+    <Point>
+      <coordinates>13.53961,52.45998,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Paracelsus-Bad</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/63.html" 
+    </description>
+    <Point>
+      <coordinates>13.347165584564209,52.575504943559125,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>Schwimmhalle Allendeviertel</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/101.html" 
+    </description>
+    <Point>
+      <coordinates>13.587915301322937,52.4425629367007,0</coordinates>
+    </Point>
+</Placemark>   
+<Placemark>
+    <name>Schwimmhalle Anton-Saefkow-Platz</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/70.html" 
+    </description>
+    <Point>
+      <coordinates>13.4721179,52.5309589,0</coordinates>
+    </Point>
+  </Placemark>   
+ <Placemark>
+    <name>Schwimmhalle Baumschulenweg</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/102.html" 
+    </description>
+    <Point>
+      <coordinates>13.49384,52.47031,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Schwimmhalle Buch</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/79.html" 
+    </description>
+    <Point>
+      <coordinates>13.49179,52.62887,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Schwimmhalle Ernst-Thälmann-Park</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/78.html" 
+    </description>
+    <Point>
+      <coordinates>13.4338276,52.5408844,0</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+    <name>Schwimmhalle Fischerinsel</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/75.html" 
+    </description>
+    <Point>
+      <coordinates>13.40437,52.51286,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Schwimmhalle am Helene-Weigel-Platz</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/72.html" 
+    </description>
+    <Point>
+      <coordinates>13.54235,52.52801,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Schwimmhalle Holzmarktstraße</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/68.html" 
+    </description>
+    <Point>
+      <coordinates>13.42627,52.51314,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Schwimmhalle Hüttenweg</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/139.html" 
+    </description>
+    <Point>
+      <coordinates>13.2689149,52.4542872,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Schwimmhalle Kaulsdorf</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/73.html" 
+    </description>
+    <Point>
+      <coordinates>13.58555,52.52112,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Schwimmhalle Sewanstraße</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/69.html" 
+    </description>
+    <Point>
+      <coordinates>13.51577,52.49584,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Schwimmhalle Zingster Straße</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/71.html" 
+    </description>
+    <Point>
+      <coordinates>13.5023722,52.566329,0</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+    <name>Saunalandschaft Lichterfelde (Spucki)</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/301.html" 
+    </description>
+    <Point>
+      <coordinates>13.3120881,52.4336771,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sport- und Lehrschwimmhalle Schöneberg</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/137.html" 
+    </description>
+    <Point>
+      <coordinates>13.3564546,52.4769759,0</coordinates>
+    </Point>
+  </Placemark>
+<Placemark>
+    <name>SSE Schwimm- und Sprunghalle im Europa-Sportpark</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/80.html" 
+    </description>
+    <Point>
+      <coordinates>13.450184,52.530817,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Charlottenburg - Alte Halle</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/64.html" 
+    </description>
+    <Point>
+      <coordinates>13.3094493,52.51446,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Charlottenburg - Neue Halle</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/65.html" 
+    </description>
+    <Point>
+      <coordinates>13.30928,52.51438,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Stadtbad Lankwitz</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/104.html" 
+    </description>
+    <Point>
+      <coordinates>13.34487,52.44228,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Mitte - James Simon</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/74.html" 
+    </description>
+    <Point>
+      <coordinates>13.39289,52.52946,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Märkisches Viertel</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/81.html" 
+    </description>
+    <Point>
+      <coordinates>13.35314,52.59839,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Neukölln</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/77.html" 
+    </description>
+    <Point>
+      <coordinates>13.44014,52.47923,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Schöneberg - Hans Rosenthal</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/105.html" 
+    </description>
+    <Point>
+      <coordinates>13.3514808,52.4841237,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Spandau Nord</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/106.html" 
+    </description>
+    <Point>
+      <coordinates>13.19454,52.555,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Stadtbad Tempelhof</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/107.html" 
+    </description>
+    <Point>
+      <coordinates>13.3885992,52.4645818,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Tiergarten</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/76.html" 
+    </description>
+    <Point>
+      <coordinates>13.36155,52.52736,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadtbad Wilmersdorf I</name>
+    <description>
+      "http://www.berlinerbaederbetriebe.de/66.html" 
+    </description>
+    <Point>
+      <coordinates>13.3142437,52.4808942,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  
+  
+  </Document>
+</kml>
